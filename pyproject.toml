@@ -1,6 +1,6 @@
 [project]
 name = "comfyui-ollama-prompt-enhancer"
-version = "1.0.0"
+version = "1.0.1"
 description = "Local Ollama prompt enhancer nodes for video and audio direction, designed for LTX 2.3 talking-head workflows."
 license = { file = "LICENSE" }
 
