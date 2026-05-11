@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-ollama-prompt-enhancer"
+version = "1.0.0"
+description = "Local Ollama prompt enhancer nodes for video and audio direction, designed for LTX 2.3 talking-head workflows."
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/jbj151/comfyui-ollama-prompt-enhancer"
+
+[tool.comfy]
+PublisherId = "jbj151"
+DisplayName = "comfyui-ollama-prompt-enhancer"
+Icon = ""
