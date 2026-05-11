@@ -5,7 +5,7 @@ description = "Local Ollama prompt enhancer nodes for video and audio direction,
 license = { file = "LICENSE" }
 
 [project.urls]
-Repository = "https://github.com/jbj151/comfyui-ollama-prompt-enhancer"
+Repository = "https://github.com/johnbonjohnsonn-creator/comfyui-ollama-prompt-enhancer"
 
 [tool.comfy]
 PublisherId = "jbj151"
